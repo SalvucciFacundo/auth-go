@@ -1,0 +1,23 @@
+# Binaries
+bin/
+main
+auth-api
+
+# Dependencies
+vendor/
+
+# IDEs
+.idea/
+.vscode/
+
+# Environment / Tools
+.env
+.gemini/
+
+# Misc
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
